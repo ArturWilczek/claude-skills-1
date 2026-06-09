@@ -1,6 +1,6 @@
 ---
 name: update-user-guide
-description: Tworzy (jeśli nie istnieje) lub aktualizuje plik ./GUIDE.md — instrukcję obsługi aplikacji dla użytkownika końcowego. Opisuje wszystkie funkcjonalności frontendu, dołącza zrzuty ekranów wykonane przez Playwright na bazie testowych danych (testowy użytkownik + seed pomiarów), wymaga uruchomionego serwera deweloperskiego. Argument opcjonalny: dodatkowe uwagi do bieżącego przebiegu aktualizacji instrukcji (np. „skup się na sekcji statystyk", „pomiń analizę AI", „użyj jasnego motywu").
+description: "Tworzy (jeśli nie istnieje) lub aktualizuje plik ./GUIDE.md — instrukcję obsługi aplikacji dla użytkownika końcowego. Opisuje wszystkie funkcjonalności frontendu, dołącza zrzuty ekranów wykonane przez Playwright na bazie testowych danych (testowy użytkownik + seed pomiarów), wymaga uruchomionego serwera deweloperskiego. Argument opcjonalny: dodatkowe uwagi do bieżącego przebiegu aktualizacji instrukcji (np. „skup się na sekcji statystyk", „pomiń analizę AI", „użyj jasnego motywu")."
 ---
 
 Wygeneruj/odśwież `./GUIDE.md` — kompletną, czytelną dla nietechnicznego użytkownika instrukcję obsługi aplikacji CPW, ze zrzutami ekranów wszystkich istotnych widoków i funkcji.
