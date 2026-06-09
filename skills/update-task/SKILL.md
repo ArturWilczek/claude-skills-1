@@ -1,6 +1,6 @@
 ---
 name: update-task
-description: Aktualizuje plik zadania NNNN.md o nowe wymagania i realizuje je w kodzie. Argumenty: nr zadania + opis zmian. Przykład: /update-task 4 Przycisk submit ma być nieaktywny gdy formularz niepoprawny
+description: "Aktualizuje plik zadania NNNN.md o nowe wymagania i realizuje je w kodzie. Argumenty: nr zadania + opis zmian. Przykład: /update-task 4 Przycisk submit ma być nieaktywny gdy formularz niepoprawny"
 ---
 
 Zaktualizuj zadanie i zaimplementuj zmiany. Argumenty: **$ARGS**
